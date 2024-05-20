@@ -1,0 +1,7 @@
+C:\tmp2\bin\bash\learningapp.exe
+C:\tmp2\bin\bash\appsettings.Development.json
+C:\tmp2\bin\bash\appsettings.json
+C:\tmp2\bin\bash\learningapp.dll
+C:\tmp2\bin\bash\learningapp.deps.json
+C:\tmp2\bin\bash\learningapp.runtimeconfig.json
+C:\tmp2\bin\bash\learningapp.pdb
